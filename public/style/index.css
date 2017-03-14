@@ -1,3 +1,17 @@
 header {
-  margin-bottom: 10em;
+  margin-bottom: 15em;
+}
+
+form {
+  font-size: 2em;
+}
+
+section {
+  font-size: 1.5em;
+  margin-top: 2em;
+  font-family: "Bitter", serif;
+}
+
+.submitButton {
+  font-family: "Bitter", serif;
 }

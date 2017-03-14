@@ -1,0 +1,20 @@
+#selectButtons {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+
+#checkmark {
+  border-radius: 50%;
+  background-color: #FFF;
+}
+
+#ex {
+  border-radius: 50%;
+  background-color: #FFF;
+}
+
+#main {
+  font-family: "Bitter", serif;
+  align-content: center;
+}
