@@ -6,6 +6,10 @@ form {
   font-size: 2em;
 }
 
+.searchBox {
+  border-radius: 10px;
+}
+
 section {
   font-size: 1.5em;
   margin-top: 2em;
@@ -14,4 +18,5 @@ section {
 
 .submitButton {
   font-family: "Bitter", serif;
+  border-radius: 10px;
 }
