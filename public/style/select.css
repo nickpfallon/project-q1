@@ -1,7 +1,6 @@
 #selectButtons {
   display: flex;
   flex-direction: row;
-  align-content: center;
 }
 
 #checkmark {
@@ -9,11 +8,16 @@
   background-color: #FFF;
 }
 
-#ex {
+#exmark {
   border-radius: 50%;
+  background-color: #FFF;
 }
 
 #main {
   font-family: "Bitter", serif;
-  align-content: center;
+}
+
+#ex, #check {
+  width: 60px;
+  height: auto;
 }
