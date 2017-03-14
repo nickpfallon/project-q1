@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  background-image: url("../media/lobster-header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 12.5em;
+  align-items: center;
+  font-family: "Pacifico", cursive, serif;
+}
+
+h1 {
+  font-size: 5em;
+  margin-left: 1.75em;
+  color: #ffcf82;
+}
