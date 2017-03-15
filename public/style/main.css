@@ -1,4 +1,4 @@
-body {
+/*body {
   background-color: #ffcf82;
 }
 
@@ -11,10 +11,10 @@ header {
   height: 12.5em;
   align-items: center;
   font-family: "Pacifico", cursive, serif;
-}
-
+/*}*/
 h1 {
   font-size: 5em;
   margin-left: 1.75em;
-  color: #ffcf82;
+  font-family: "Pacifico", cursive, serif;
+  color: #00bcd4;
 }

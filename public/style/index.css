@@ -1,4 +1,4 @@
-header {
+/*header {
   margin-bottom: 15em;
 }
 
@@ -19,4 +19,21 @@ section {
 .submitButton {
   font-family: "Bitter", serif;
   border-radius: 10px;
+}*/
+
+h1 {
+  font-size: 5em;
+  margin-left: 1.75em;
+  font-family: "Pacifico", cursive, serif;
+  color: #00bcd4;
+}
+p {
+  font-size: 1.5em;
+  font-family: "Bitter", "Roboto", Arial, serif;
+  color: #fff;
+}
+#ingredient {
+  font-size: 1em;
+  font-family: "Bitter", "Roboto", Arial, serif;
+  color: #fff;
 }

@@ -10,17 +10,25 @@
     <link href="https://fonts.googleapis.com/css?family=Bitter" rel="stylesheet">
 
   </head>
-  <body>
-    <header class="container-fluid col-md-12">
-      <h1>Muncher</h1>
-    </header>
-    <form name="search" action="select.html" id="ingredient" class="container-fluid text-center">
-      <input type="text" name="ingredient" placeholder="Ingredient" class="searchBox">
-      <button type="submit" class="submitButton">Search</button>
-    </form>
-    <section class="container-fluid">
-      <p class="text-center">Search for an ingredient to swipe through munchy recipes!</p>
-    </section>
+  <body class="#f06292 pink lighten-2">
+    <div class="row">
+      <header class="container left-align col s12">
+        <h1>Müncher</h1>
+      </header>
+    <div>
+    <div class="container center-align main-body">
+      <form name="search" action="select.html" id="ingredient" class="container section">
+        <div class="row">
+          <div class="input-field col s6 offset-s3">
+            <input type="text" name="ingredient" placeholder="Ingredient" class="searchBox">
+          </div>
+        </div>
+        <button type="submit" class="submitButton btn waves-effect waves-light #00bcd4 cyan">Search</button>
+      </form>
+      <section class="container">
+        <p class="text-center">Search for an ingredient to swipe through recipes!</p>
+      </section>
+    </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     <script src="js/index.js"></script>

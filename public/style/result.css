@@ -1,4 +1,9 @@
-#backarrow {
+/*#backarrow {
   width: 60px;
   height: 60px;
+}*/
+
+.title, h5 {
+  font-family: "Bitter", "Roboto", Arial, serif;
+  color: white;
 }

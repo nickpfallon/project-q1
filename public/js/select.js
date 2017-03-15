@@ -25,6 +25,8 @@ function getRecipes() {
           url = data.hits[i].recipe.url
           ingredientsList = data.hits[i].recipe.ingredientLines
           $("#main").append("<div class='get" + i + "'><img src=" + image + "><h3>" + title + "</h3></div>")
+          $(this).css("position", "relative")
+          $(this).css("z-index", i)
           ingredients.push(ingredientsList)
           imageArray.push(image)
           titleArray.push(title)
