@@ -1,27 +1,3 @@
-/*#selectButtons {
-  display: flex;
-  flex-direction: row;
-}
-
-#checkmark {
-  border-radius: 50%;
-  background-color: #FFF;
-}
-
-#exmark {
-  border-radius: 50%;
-  background-color: #FFF;
-}
-
-#main {
-  font-family: "Bitter", serif;
-}
-
-#ex, #check {
-  width: 60px;
-  height: auto;
-}*/
-
 #mainSelect {
   color: white;
   font-family: "Bitter", "Roboto", Arial, serif;
