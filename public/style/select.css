@@ -26,14 +26,15 @@
   color: white;
   font-family: "Bitter", "Roboto", Arial, serif;
 }
-
 #checkmark, #exmark {
   color: white;
   background-color: #00bcd4;
   width: auto;
   height: auto;
 }
-
 h3 {
   font-size: 2em;
+}
+.food {
+  margin: 3em;
 }
