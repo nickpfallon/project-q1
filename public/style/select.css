@@ -34,7 +34,29 @@
 }
 h3 {
   font-size: 2em;
+  padding: .5em;
+  border: 2px solid #99d4ff;
+  border-radius: .5em;
+  background-color: #f06292;
 }
 .food {
   margin: 3em;
+  border: 2px solid #99d4ff;
+  border-radius: 1em;
+  background-color: #f8bbd0;
+  color: white;
+}
+.buttons {
+  clear: left;
+}
+header {
+  margin-bottom: 4em;
+}
+img {
+  border-radius: 1em;
+  margin-top: 3.33em;
+  border: 2px solid #99d4ff;
+}
+.row {
+  width: 30em;
 }

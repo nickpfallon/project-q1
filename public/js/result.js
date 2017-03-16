@@ -9,4 +9,4 @@ for (var i = 0; i < ingredients.length; i++) {
 }
 $(".picture").append("<img src=" + image + ">")
 $(".title").append(title)
-$(".url").append("<a href=" + "'" + url + "'>" + url + "</a>")
+$(".url").append("<a href=" + "'" + url + "'>" + "See this recipe!" + "</a>")

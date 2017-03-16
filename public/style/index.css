@@ -37,3 +37,6 @@ p {
   font-family: "Bitter", "Roboto", Arial, serif;
   color: #fff;
 }
+header {
+  margin-bottom: 4em;
+}

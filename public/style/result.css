@@ -7,3 +7,42 @@
   font-family: "Bitter", "Roboto", Arial, serif;
   color: white;
 }
+.title {
+  background-color: #f06292;
+  padding: .5em;
+  border: 2px solid #99d4ff;
+  border-radius: .33em;
+}
+h5 {
+  color: black;
+}
+header {
+  margin-bottom: 4em;
+}
+.main {
+  padding: 4em;
+  border: 2px solid #99d4ff;
+  border-radius: 1em;
+  background-color: #f8bbd0;
+}
+img {
+  border-radius: 1em;
+  margin-bottom: 1em;
+  border: 2px solid #99d4ff;
+}
+.ingredient-list {
+  border-radius: 1em;
+  background-color: #f06292;
+  border: 2px solid #99d4ff;
+}
+a {
+  font-family: "Bitter", "Roboto", Arial, serif;
+  font-size: 1.5em;
+  color: #00838f;
+}
+a:hover {
+  color: #fff356;
+}
+h3 {
+  font-size: 2.5em;
+}
