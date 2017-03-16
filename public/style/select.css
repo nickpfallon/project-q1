@@ -60,3 +60,7 @@ img {
 .row {
   width: 30em;
 }
+
+button {
+  border-radius: 1em;
+}
