@@ -25,6 +25,8 @@ function getRecipes() {
           url = data.hits[i].recipe.url
           ingredientsList = data.hits[i].recipe.ingredientLines
           $("#main").append("<div class='get" + i + " col l12 m12 s12 row food'><img src=" + image + "><h3>" + title + "</h3></div>")
+          $(".get" + i).hide()
+          $(".get0").show()
           ingredients.push(ingredientsList)
           imageArray.push(image)
           titleArray.push(title)
@@ -38,6 +40,8 @@ var index = 0
 $("#exmark").click(function (){
   $(".get" + index).remove()
   index++
+  $(".get" + index).show()
+
   $("#checkmark").click(function (){
     sessionStorage.setItem("list", ingredients[index])
     sessionStorage.setItem("image", imageArray[index])
