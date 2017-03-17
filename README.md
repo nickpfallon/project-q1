@@ -8,3 +8,6 @@ icon accepts the shown recipe as one that the user would like to see more inform
 about; it takes the user to a new page that shows the image of the recipe, the
 recipe ingredients, and a link to an external site with the full instructions for
 the recipe.
+
+Video Description:
+https://youtu.be/JUa5umfc6Bs
